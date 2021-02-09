@@ -4,7 +4,7 @@ import "./style.css";
 function Footer() {
   return (
   
-      <footer className="footer py-3 text-center mt-0">
+      <footer className="footer py-3 text-center mt-0 mono-font">
     <section className="container ">
       <span className="text-muted ">©Copyright 2020 Dmitri So</span>
       <a href="https://stackoverflow.com/users/14544394/dmitriso" target="_blank"><i

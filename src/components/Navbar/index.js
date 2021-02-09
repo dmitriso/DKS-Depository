@@ -4,7 +4,7 @@ import "./style.css";
 
 function Navbar() {
   return (
-    <nav className="navbar navbar-expand-lg navbar-dark p-0 fixed-top">
+    <nav className="navbar navbar-expand-lg navbar-dark p-0 fixed-top mono-font">
     <Link className="navbar-brand text" to="/DKS-Depository/">Dmitri K. So</Link>
     
     <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
