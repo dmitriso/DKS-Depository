@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "In-Solez",
+        "image": "../assets/images/In-Solez.jpg",
+        "repo": "https://github.com/dmitriso/In-Solez",
+        "deployed": "https://in-solez.herokuapp.com/"
+    },
+    {
+        "id": 2,
+        "name": "THme",
+        "image": "../assets/images/THme1.jpg",
+        "repo": "https://github.com/dmitriso/THme",
+        "deployed": "https://dmitriso.github.io/THme/"
+    },
+    {
+        "id": 3,
+        "name": "Schedule-Of-TheDay",
+        "image":"../assets/images/Schedule-day-planner1.jpg",
+        "repo": "https://github.com/dmitriso/Schedule-Of-TheDay",
+        "deployed":"https://dmitriso.github.io/Schedule-Of-TheDay/"
+    },
+    {
+        "id": 4,
+        "name": "Code-Quiz",
+        "image": "../assets/images/Code-quiz.jpg",
+        "repo": "https://github.com/dmitriso/Code-Quiz",
+        "deployed":"https://dmitriso.github.io/Code-Quiz/"
+    }
+]

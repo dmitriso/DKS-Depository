@@ -1,0 +1,16 @@
+nav.navbar.navbar-default {
+  margin-bottom: 0;
+}
+
+.black-background {
+  background-color: black;
+  color:limegreen;
+}
+
+.green-text {
+  color:limegreen;
+}
+
+.float-right {
+  float: right;
+}
