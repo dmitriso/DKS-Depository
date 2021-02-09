@@ -16,6 +16,10 @@
   
 }
 
+.mono-font {
+  font-family: monospace;
+}
+
 .middle {
   position: absolute;
   top: 50%;
@@ -32,6 +36,7 @@ body {
     background-color:#000;
     margin:0;
     padding:0;
+    
   }
 
   .text-color {
@@ -44,8 +49,8 @@ body {
   }
 
   .background-screen {
-    background-image:radial-gradient(rgb(61, 61, 61), rgb(0, 0, 0));
-    box-shadow:0 0 30vmin 9vmin rgb(0, 0, 0) inset;
+    background-image:radial-gradient(rgb(36, 36, 36), rgb(0, 0, 0));
+    box-shadow:0 10 30vmin 10vmin rgb(0, 0, 0) inset;
     box-sizing:border-box;
     font-family: monospace;
     font-size:20px;
@@ -54,6 +59,8 @@ body {
     padding:5vmin;
     width:100vw;
   }
+
+
   
   .screen {
     animation:colorPulse 5s infinite ease-in-out;
@@ -65,9 +72,9 @@ body {
     font-family: monospace;
     font-size:20px;
     height:100vh;
-    overflow:hidden;
+    overflow:;
     padding:10vmin;
-    width:100vw;
+    /* width:100vw; */
   }
   
   .screen:before {
@@ -82,7 +89,7 @@ body {
   }
   
   .screen:after {
-    background-image:linear-gradient(transparent, transparent 3px, #222);
+    background-image:linear-gradient(transparent, transparent 1px, #222);
     background-size:4px 4px;
     bottom:0;
     content:"";
@@ -94,10 +101,10 @@ body {
     z-index:2;
   }
   
-  p:last-child:after {
+  /* p:last-child:after {
     animation:blink 1s infinite;
     content:"_";
-  }
+  } */
   
   @keyframes colorPulse {
     0%, 100% {
@@ -124,7 +131,7 @@ body {
     }
     100% {
       box-shadow:0 -10vh 20vh #0c0;
-      top:200vh;
+      top:95vh;
     }
   }
   
