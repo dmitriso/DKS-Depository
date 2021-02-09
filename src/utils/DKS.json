@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "In-Solez",
-        "image": "../../../public/assets/images/In-Solez.jpg",
+        "image": "../public/assets/images/In-Solez.jpg",
         "repo": "https://github.com/dmitriso/In-Solez",
         "deployed": "https://in-solez.herokuapp.com/"
     },
@@ -22,10 +22,10 @@
     },
     {
         "id": 4,
-        "name": "Code-Quiz",
-        "image": "../assets/images/Code-quiz.jpg",
-        "repo": "https://github.com/dmitriso/Code-Quiz",
-        "deployed":"https://dmitriso.github.io/Code-Quiz/"
+        "name": "Good-Burger",
+        "image": "../assets/images/.jpg",
+        "repo": "https://github.com/dmitriso/Good-Burger",
+        "deployed":"https://aqueous-headland-38171.herokuapp.com/"
     },
     {
         "id": 5,
@@ -36,9 +36,9 @@
     },
     {
         "id": 6,
-        "name": "Code-Quiz",
-        "image": "../assets/images/Code-quiz.jpg",
-        "repo": "https://github.com/dmitriso/Code-Quiz",
-        "deployed":"https://dmitriso.github.io/Code-Quiz/"
+        "name": "Fitness-Tracker",
+        "image": "../assets/images/.jpg",
+        "repo": "https://github.com/dmitriso/Fitness-Tracker",
+        "deployed":"https://salty-hamlet-96659.herokuapp.com/"
     }
 ]
