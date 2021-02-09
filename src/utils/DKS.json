@@ -26,5 +26,19 @@
         "image": "../assets/images/Code-quiz.jpg",
         "repo": "https://github.com/dmitriso/Code-Quiz",
         "deployed":"https://dmitriso.github.io/Code-Quiz/"
+    },
+    {
+        "id": 5,
+        "name": "Progressive-Budget-Tracker",
+        "image": "../assets/images/Progressive-Budget-Tracker.jpg",
+        "repo": "https://github.com/dmitriso/Progressive-Budget-Tracker",
+        "deployed":"https://dry-everglades-61211.herokuapp.com/"
+    },
+    {
+        "id": 6,
+        "name": "Code-Quiz",
+        "image": "../assets/images/Code-quiz.jpg",
+        "repo": "https://github.com/dmitriso/Code-Quiz",
+        "deployed":"https://dmitriso.github.io/Code-Quiz/"
     }
 ]
