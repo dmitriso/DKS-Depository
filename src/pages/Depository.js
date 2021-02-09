@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import ProjectItem from "../components/Project/ProjectItem";
-import DKS from "../utils/DKS"
+import DKS from "../utils/DKS.js"
 
 class Depository extends Component {
     state = {
