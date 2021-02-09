@@ -5,7 +5,7 @@ import "./style.css";
 function Navbar() {
   return (
     <nav className="navbar navbar-expand-lg navbar-dark p-0 fixed-top">
-    <Link className="navbar-brand text" href="#" to="/DKS-Depository/">Dmitri K. So</Link>
+    <Link className="navbar-brand text" to="/DKS-Depository/">Dmitri K. So</Link>
     
     <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
       aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">

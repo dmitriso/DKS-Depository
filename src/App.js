@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter as Router, Route } from "react-router-dom";
+import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 // IMPORTED PAGES FOR ROUTES
 import Welcome from "./pages/Welcome";
 import About from "./pages/About";
@@ -17,9 +17,11 @@ const App = () => {
       <div>
         <Navbar />
         <Wrapper>
+          <Switch>
           <Route exact path="/DKS-Depository/" component={Welcome} />
           <Route exact path="/DKS-Depository/about" component={About} />
           <Route exact path="/DKS-Depository/depository" component={Depository} />
+          </Switch>
         </Wrapper>
         <Footer />
       </div>

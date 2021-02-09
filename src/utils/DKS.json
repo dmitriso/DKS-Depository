@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "In-Solez",
-        "image": "../assets/images/In-Solez.jpg",
+        "image": "../../../assets/images/In-Solez.jpg",
         "repo": "https://github.com/dmitriso/In-Solez",
         "deployed": "https://in-solez.herokuapp.com/"
     },
