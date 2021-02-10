@@ -15,10 +15,10 @@ function Navbar() {
     <section className="collapse navbar-collapse justify-content-end" id="navbarNav">
       <ul className="navbar-nav">
         <li className="nav-item ">
-          <Link className="nav-link" to="/DKS-Depository/about"><i className="fa fa-user-o p-1 text-warning" aria-hidden="true"></i>About</Link>
+          <Link className="nav-link" to="/DKS-Depository/about"><i className="fa fa-arrows-alt p-1 text-warning" aria-hidden="true"></i>About</Link>
         </li>
         <li className="nav-item">
-          <Link className="nav-link"  to="/DKS-Depository/depository"><i className="fa fa-archive p-1 text-warning" aria-hidden="true"></i>Depository</Link>
+          <Link className="nav-link"  to="/DKS-Depository/depository"><i className="fa fa-th p-1 text-warning" aria-hidden="true"></i>Depository</Link>
         </li>
       </ul>
     </section>
