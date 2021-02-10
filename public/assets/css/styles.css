@@ -13,7 +13,7 @@
 
 .round-img {
   border-radius: 50%;
-  
+  max-width: 100px;
 }
 
 .mono-font {
@@ -72,7 +72,6 @@ body {
     font-family: monospace;
     font-size:20px;
     height:100vh;
-    overflow:;
     padding:10vmin;
     /* width:100vw; */
   }
