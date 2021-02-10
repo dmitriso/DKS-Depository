@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+
+
 .background-img {
   background-image:url(../images/SIXTH-EXTINCTION_CARD2.jpg);
   background-size: cover;
@@ -13,11 +16,11 @@
 
 .round-img {
   border-radius: 50%;
-  
+  max-width: 100px;
 }
 
 .mono-font {
-  font-family: monospace;
+  font-family: 'Orbitron', monospace;
 }
 
 .middle {
@@ -41,7 +44,7 @@ body {
 
   .text-color {
     color:rgb(255, 255, 255);
-  
+    text-shadow: 2px 2px 8px #000000;
   }
 
   .project-card {
@@ -72,7 +75,6 @@ body {
     font-family: monospace;
     font-size:20px;
     height:100vh;
-    overflow:;
     padding:10vmin;
     /* width:100vw; */
   }
