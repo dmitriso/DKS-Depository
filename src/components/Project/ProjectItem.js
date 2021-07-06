@@ -11,12 +11,10 @@ function ProjectItem(props) {
           </div>
           <div className='card-back text-center'>
             <h1>{props.name}</h1>
-            <a href={props.deployed}>Deployed App</a>
+            <a target='__blank' href={props.deployed}>Deployed App</a>
             <br></br>
-            <a href={props.repo}>GitHub Repository</a>
+            <a target='__blank' href={props.repo}>GitHub Repository</a>
             <br></br>
-            
-
           </div>
         </div>
       </div>

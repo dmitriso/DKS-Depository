@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+
+.mono-font {
+  font-family: 'Orbitron', monospace;
+}
+
+.mt {
+  margin-top: 75px;
+}
+
+.text-color {
+    color:rgb(255, 255, 255);
+    text-shadow: 2px 2px 8px #000000;
+  }
+
+  .background-screen {
+    box-shadow:0 10 30vmin 10vmin rgb(0, 0, 0) inset;
+    box-sizing:border-box;
+    font-family: monospace;
+    font-size:20px;
+    height:100vh;
+    overflow:hidden;
+    padding:23vmin;
+    width:100vw;
+  }
+  
+
+  
+
+  
+  
+

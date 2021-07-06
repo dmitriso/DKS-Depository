@@ -9,7 +9,7 @@
     {
         "id": 2,
         "name": "THme",
-        "image": "./assets/images/THme1.jpg",
+        "image": "../assets/images/THme1.jpg",
         "repo": "https://github.com/dmitriso/THme",
         "deployed": "https://dmitriso.github.io/THme/"
     },
