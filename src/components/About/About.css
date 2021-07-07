@@ -5,7 +5,8 @@
 }
 
 .mt {
-  margin-top: 75px;
+  margin-top: 55vh;
+  margin-bottom:10%;
 }
 
 .text-color {
@@ -13,15 +14,13 @@
     text-shadow: 2px 2px 8px #000000;
   }
 
-  .background-screen {
-    box-shadow:0 10 30vmin 10vmin rgb(0, 0, 0) inset;
-    box-sizing:border-box;
+  .about-el {
     font-family: monospace;
     font-size:20px;
-    height:100vh;
+    height:140vh;
     overflow:hidden;
-    padding:23vmin;
     width:100vw;
+    padding:0 10%;
   }
   
 

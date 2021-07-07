@@ -3,7 +3,7 @@ import "./Badges.css";
 
 function Badges() {
     return (
-        <div>
+        <div className="badge-el">
             <h3></h3>
             <div className="badge-table">
                 <div>

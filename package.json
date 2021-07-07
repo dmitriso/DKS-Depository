@@ -16,6 +16,7 @@
     "react-hanger": "^2.3.2",
     "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.2",
+    "three": "^0.130.1",
     "web-vitals": "^1.1.0"
   },
   "scripts": {

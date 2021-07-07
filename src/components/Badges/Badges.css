@@ -1,8 +1,17 @@
+.badge-el{
+    height:50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .badge-table {
     width:100vw;
     position:absolute;
     display: flex;
     justify-content: space-around;
+   
+    padding: 0 10%;
 }
 
 .badge-list{

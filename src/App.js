@@ -1,14 +1,14 @@
-// import './App.css';
+import './App.css';
 import React from "react";
-import { HashRouter as Router, Route, Switch } from "react-router-dom";
-// IMPORTED PAGES FOR ROUTES
+import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+// IMPORTED COMPONENTS FOR RENDER
 import Welcome from "./components/Welcome/Welcome";
 import About from "./components/About/About";
 import Depository from "./components/Depository/Depository";
-// IMPORTED COMPONENTS FOR RENDER
-import Navbar from "./components/Navbar";
-import Wrapper from "./components/Wrapper";
-import Footer from "./components/Footer";
+import Badges from "./components/Badges/Badges";
+import Navbar from "./components/Navbar/Navbar";
+import Wrapper from "./components/Wrapper/Wrapper";
+import Footer from "./components/Footer/Footer";
 
 // FUNCTION TO INITIALIZE APP
 const App = () => {
@@ -25,6 +25,7 @@ const App = () => {
           </Switch> */}
           <Welcome/>
           <About/>
+          <Badges />
           <Depository/>
         </Wrapper>
         <Footer />

@@ -1,6 +1,6 @@
 /* eslint-disable jsx-a11y/img-redundant-alt */
 import React from "react";
-import "./styles.css";
+import "./Welcome.css";
 
 const Welcome = () => (
     <div className="background-screen">

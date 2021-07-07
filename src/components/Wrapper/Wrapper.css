@@ -1,5 +1,6 @@
 .wrapper {
    background-image:radial-gradient(rgb(36, 36, 36), rgb(0, 0, 0));
    box-shadow:0 10 30vmin 10vmin rgb(90, 80, 80) inset;
-  min-height: 100%;
+   min-height: 100%;
 }
+

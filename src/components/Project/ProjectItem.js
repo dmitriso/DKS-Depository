@@ -1,5 +1,5 @@
 import React from "react";
-import "./style.css";
+import "./ProjectItem.css";
 
 function ProjectItem(props) {
   return (
@@ -19,8 +19,6 @@ function ProjectItem(props) {
         </div>
       </div>
     </div>
-
-
   );
 }
 

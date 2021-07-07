@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import ProjectItem from "../Project/ProjectItem";
 import DKS from "../../utils/DKS.js"
-import "./styles.css";
+import "./Depository.css";
 
 class Depository extends Component {
     state = {
@@ -10,7 +10,7 @@ class Depository extends Component {
 
     render() {
         return (
-            <div className="background-screen">
+            <div className="depository-el">
                 <section className='cards'>
                     {this.state.DKS.map((item) => (
                         <ProjectItem
