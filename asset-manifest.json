@@ -1,23 +1,29 @@
 {
   "files": {
-    "main.css": "/DKS-Depository/static/css/main.35a98f48.chunk.css",
-    "main.js": "/DKS-Depository/static/js/main.c74b4a7a.chunk.js",
-    "main.js.map": "/DKS-Depository/static/js/main.c74b4a7a.chunk.js.map",
+    "main.css": "/DKS-Depository/static/css/main.f98a87fe.chunk.css",
+    "main.js": "/DKS-Depository/static/js/main.afe36c75.chunk.js",
+    "main.js.map": "/DKS-Depository/static/js/main.afe36c75.chunk.js.map",
     "runtime-main.js": "/DKS-Depository/static/js/runtime-main.7ae285e1.js",
     "runtime-main.js.map": "/DKS-Depository/static/js/runtime-main.7ae285e1.js.map",
     "static/css/2.150d169a.chunk.css": "/DKS-Depository/static/css/2.150d169a.chunk.css",
-    "static/js/2.652bb3ca.chunk.js": "/DKS-Depository/static/js/2.652bb3ca.chunk.js",
-    "static/js/2.652bb3ca.chunk.js.map": "/DKS-Depository/static/js/2.652bb3ca.chunk.js.map",
+    "static/js/2.1f7fe631.chunk.js": "/DKS-Depository/static/js/2.1f7fe631.chunk.js",
+    "static/js/2.1f7fe631.chunk.js.map": "/DKS-Depository/static/js/2.1f7fe631.chunk.js.map",
     "index.html": "/DKS-Depository/index.html",
     "static/css/2.150d169a.chunk.css.map": "/DKS-Depository/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.35a98f48.chunk.css.map": "/DKS-Depository/static/css/main.35a98f48.chunk.css.map",
-    "static/js/2.652bb3ca.chunk.js.LICENSE.txt": "/DKS-Depository/static/js/2.652bb3ca.chunk.js.LICENSE.txt"
+    "static/css/main.f98a87fe.chunk.css.map": "/DKS-Depository/static/css/main.f98a87fe.chunk.css.map",
+    "static/js/2.1f7fe631.chunk.js.LICENSE.txt": "/DKS-Depository/static/js/2.1f7fe631.chunk.js.LICENSE.txt",
+    "static/media/Fitness-Tracker.fa71ddc0.jpg": "/DKS-Depository/static/media/Fitness-Tracker.fa71ddc0.jpg",
+    "static/media/Good-Burger.9b5351de.jpg": "/DKS-Depository/static/media/Good-Burger.9b5351de.jpg",
+    "static/media/In-Solez.bd63e653.jpg": "/DKS-Depository/static/media/In-Solez.bd63e653.jpg",
+    "static/media/Progressive-Budget-Tracker.a8aaccec.jpg": "/DKS-Depository/static/media/Progressive-Budget-Tracker.a8aaccec.jpg",
+    "static/media/Schedule-day-planner1.c968a17d.jpg": "/DKS-Depository/static/media/Schedule-day-planner1.c968a17d.jpg",
+    "static/media/THme1.9b6879fc.jpg": "/DKS-Depository/static/media/THme1.9b6879fc.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.7ae285e1.js",
     "static/css/2.150d169a.chunk.css",
-    "static/js/2.652bb3ca.chunk.js",
-    "static/css/main.35a98f48.chunk.css",
-    "static/js/main.c74b4a7a.chunk.js"
+    "static/js/2.1f7fe631.chunk.js",
+    "static/css/main.f98a87fe.chunk.css",
+    "static/js/main.afe36c75.chunk.js"
   ]
 }
