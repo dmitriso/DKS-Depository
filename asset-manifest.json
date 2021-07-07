@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/DKS-Depository/static/css/main.f98a87fe.chunk.css",
-    "main.js": "/DKS-Depository/static/js/main.afe36c75.chunk.js",
-    "main.js.map": "/DKS-Depository/static/js/main.afe36c75.chunk.js.map",
+    "main.js": "/DKS-Depository/static/js/main.d313049d.chunk.js",
+    "main.js.map": "/DKS-Depository/static/js/main.d313049d.chunk.js.map",
     "runtime-main.js": "/DKS-Depository/static/js/runtime-main.7ae285e1.js",
     "runtime-main.js.map": "/DKS-Depository/static/js/runtime-main.7ae285e1.js.map",
     "static/css/2.150d169a.chunk.css": "/DKS-Depository/static/css/2.150d169a.chunk.css",
@@ -17,13 +17,14 @@
     "static/media/In-Solez.bd63e653.jpg": "/DKS-Depository/static/media/In-Solez.bd63e653.jpg",
     "static/media/Progressive-Budget-Tracker.a8aaccec.jpg": "/DKS-Depository/static/media/Progressive-Budget-Tracker.a8aaccec.jpg",
     "static/media/Schedule-day-planner1.c968a17d.jpg": "/DKS-Depository/static/media/Schedule-day-planner1.c968a17d.jpg",
-    "static/media/THme1.9b6879fc.jpg": "/DKS-Depository/static/media/THme1.9b6879fc.jpg"
+    "static/media/THme1.9b6879fc.jpg": "/DKS-Depository/static/media/THme1.9b6879fc.jpg",
+    "static/media/WebDevelopmentResume(2021).bfc7a603.pdf": "/DKS-Depository/static/media/WebDevelopmentResume(2021).bfc7a603.pdf"
   },
   "entrypoints": [
     "static/js/runtime-main.7ae285e1.js",
     "static/css/2.150d169a.chunk.css",
     "static/js/2.1f7fe631.chunk.js",
     "static/css/main.f98a87fe.chunk.css",
-    "static/js/main.afe36c75.chunk.js"
+    "static/js/main.d313049d.chunk.js"
   ]
 }
