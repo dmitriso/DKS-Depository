@@ -1,0 +1,23 @@
+.badge-table {
+    width:100vw;
+    position:absolute;
+    display: flex;
+    justify-content: space-around;
+}
+
+.badge-list{
+    display: grid;
+    justify-content: center;
+    
+}
+
+.badge-list img {
+    position: relative;
+    display: inline-flex;
+    justify-content: center;
+}
+
+.badge-item{
+    display: flex;
+    justify-content: center;
+}
