@@ -7,7 +7,7 @@ function Navbar() {
     <nav className="navbar navbar-expand-lg navbar-dark p-0 fixed-top mono-font">
       <Link className="navbar-brand text" to="/">Dmitri K. So</Link>
 
-      <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+      {/* <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
         aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span className="navbar-toggler-icon"></span>
       </button>
@@ -21,7 +21,7 @@ function Navbar() {
             <Link className="nav-link" to="/depository"><i className="fa fa-th p-1 text-warning" aria-hidden="true"></i>Depository</Link>
           </li>
         </ul>
-      </section>
+      </section> */}
     </nav>
   );
 }
