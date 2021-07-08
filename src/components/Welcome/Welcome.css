@@ -23,8 +23,15 @@
     width:100vw;
   }
   
-
+.hero{
+  display: flex;
+  font-size: 25px;
+}
 
   
+.hero-btn{
+  background-color: white;
+  
+}
   
 
