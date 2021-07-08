@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/DKS-Depository/static/css/main.9f7831e2.chunk.css",
-    "main.js": "/DKS-Depository/static/js/main.3dfb86d1.chunk.js",
-    "main.js.map": "/DKS-Depository/static/js/main.3dfb86d1.chunk.js.map",
+    "main.css": "/DKS-Depository/static/css/main.70b3bb61.chunk.css",
+    "main.js": "/DKS-Depository/static/js/main.153164b6.chunk.js",
+    "main.js.map": "/DKS-Depository/static/js/main.153164b6.chunk.js.map",
     "runtime-main.js": "/DKS-Depository/static/js/runtime-main.7ae285e1.js",
     "runtime-main.js.map": "/DKS-Depository/static/js/runtime-main.7ae285e1.js.map",
     "static/css/2.150d169a.chunk.css": "/DKS-Depository/static/css/2.150d169a.chunk.css",
@@ -10,21 +10,27 @@
     "static/js/2.79c0dc7a.chunk.js.map": "/DKS-Depository/static/js/2.79c0dc7a.chunk.js.map",
     "index.html": "/DKS-Depository/index.html",
     "static/css/2.150d169a.chunk.css.map": "/DKS-Depository/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.9f7831e2.chunk.css.map": "/DKS-Depository/static/css/main.9f7831e2.chunk.css.map",
+    "static/css/main.70b3bb61.chunk.css.map": "/DKS-Depository/static/css/main.70b3bb61.chunk.css.map",
     "static/js/2.79c0dc7a.chunk.js.LICENSE.txt": "/DKS-Depository/static/js/2.79c0dc7a.chunk.js.LICENSE.txt",
     "static/media/Fitness-Tracker.fa71ddc0.jpg": "/DKS-Depository/static/media/Fitness-Tracker.fa71ddc0.jpg",
     "static/media/Good-Burger.9b5351de.jpg": "/DKS-Depository/static/media/Good-Burger.9b5351de.jpg",
     "static/media/In-Solez.bd63e653.jpg": "/DKS-Depository/static/media/In-Solez.bd63e653.jpg",
     "static/media/Progressive-Budget-Tracker.a8aaccec.jpg": "/DKS-Depository/static/media/Progressive-Budget-Tracker.a8aaccec.jpg",
+    "static/media/Rectangle 3.49cd1c76.svg": "/DKS-Depository/static/media/Rectangle 3.49cd1c76.svg",
+    "static/media/RydrMainPage.20f5bd37.jpg": "/DKS-Depository/static/media/RydrMainPage.20f5bd37.jpg",
     "static/media/Schedule-day-planner1.c968a17d.jpg": "/DKS-Depository/static/media/Schedule-day-planner1.c968a17d.jpg",
     "static/media/THme1.9b6879fc.jpg": "/DKS-Depository/static/media/THme1.9b6879fc.jpg",
-    "static/media/WebDevelopmentResume(2021).bfc7a603.pdf": "/DKS-Depository/static/media/WebDevelopmentResume(2021).bfc7a603.pdf"
+    "static/media/WebDevelopmentResume(2021).bfc7a603.pdf": "/DKS-Depository/static/media/WebDevelopmentResume(2021).bfc7a603.pdf",
+    "static/media/svg2.100b4f66.svg": "/DKS-Depository/static/media/svg2.100b4f66.svg",
+    "static/media/svg3.1931e785.svg": "/DKS-Depository/static/media/svg3.1931e785.svg",
+    "static/media/svg4.90ee5b25.svg": "/DKS-Depository/static/media/svg4.90ee5b25.svg",
+    "static/media/svg5.5d57bc69.svg": "/DKS-Depository/static/media/svg5.5d57bc69.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.7ae285e1.js",
     "static/css/2.150d169a.chunk.css",
     "static/js/2.79c0dc7a.chunk.js",
-    "static/css/main.9f7831e2.chunk.css",
-    "static/js/main.3dfb86d1.chunk.js"
+    "static/css/main.70b3bb61.chunk.css",
+    "static/js/main.153164b6.chunk.js"
   ]
 }
