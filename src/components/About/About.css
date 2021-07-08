@@ -12,16 +12,16 @@
 .text-color {
     color:rgb(255, 255, 255);
     text-shadow: 2px 2px 8px #000000;
-  }
+}
 
-  .about-el {
+.about-el {
     font-family: monospace;
     font-size:20px;
     height:140vh;
     overflow:hidden;
     width:100vw;
     padding:0 10%;
-  }
+}
   
 
   
