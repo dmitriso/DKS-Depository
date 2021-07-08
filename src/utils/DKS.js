@@ -4,6 +4,7 @@ import img3 from "../assets/images/Progressive-Budget-Tracker.jpg"
 import img4 from "../assets/images/Good-Burger.jpg"
 import img5 from "../assets/images/Fitness-Tracker.jpg"
 import img6 from "../assets/images/Schedule-day-planner1.jpg"
+import img7 from "../assets/images/RydrMainPage.jpg"
 
 
  const DKS = [
@@ -23,10 +24,10 @@ import img6 from "../assets/images/Schedule-day-planner1.jpg"
     },
     {
         "id": 3,
-        "name": "Progressive-Budget-Tracker",
-        "image":img3,
-        "repo": "https://github.com/dmitriso/Progressive-Budget-Tracker",
-        "deployed":"https://dry-everglades-61211.herokuapp.com/"
+        "name": "Rydr",
+        "image": img7,
+        "repo": "https://github.com/dmitriso/Rydr",
+        "deployed":"https://still-reaches-69009.herokuapp.com/#/"
     },
     {
         "id": 4,
@@ -49,7 +50,15 @@ import img6 from "../assets/images/Schedule-day-planner1.jpg"
         "image": img6,
         "repo": "https://github.com/dmitriso/Schedule-Of-TheDay",
         "deployed":"https://dmitriso.github.io/Schedule-Of-TheDay/"
+    },
+    {
+        "id": 7,
+        "name": "Progressive-Budget-Tracker",
+        "image":img3,
+        "repo": "https://github.com/dmitriso/Progressive-Budget-Tracker",
+        "deployed":"https://dry-everglades-61211.herokuapp.com/"
     }
+
 ]
 
 export default DKS;
