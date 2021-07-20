@@ -1,9 +1,5 @@
 import React from 'react';
 import "./Badges.css";
-import Svg1 from "../../assets/svgs/Rectangle 3.svg";
-import Svg2 from "../../assets/svgs/svg2.svg";
-import Svg3 from "../../assets/svgs/svg3.svg";
-import Svg4 from "../../assets/svgs/svg4.svg";
 import Svg5 from "../../assets/svgs/svg5.svg";
 
 function Badges() {
