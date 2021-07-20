@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
 
 .mono-font {
   font-family: 'Orbitron', monospace;
@@ -17,13 +18,15 @@
 .about-el {
     font-family: monospace;
     font-size:20px;
-    height:140vh;
+    height:100vh;
     overflow:hidden;
     width:100vw;
     padding:0 10%;
 }
   
-
+.about-el p {
+  font-family: poppins;
+}
   
 
   
