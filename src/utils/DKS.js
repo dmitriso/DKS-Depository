@@ -30,7 +30,7 @@ import img7 from "../assets/images/RydrMainPage.jpg"
         "image": img7,
         "repo": "https://github.com/dmitriso/Rydr",
         "deployed":"https://still-reaches-69009.herokuapp.com/#/",
-        "description": ""
+        "description": "A social network for artists to connect with other artists and view how venues have treated them. Bands can easily book tours and be treated in a fair manner through transparency of the modern age. In the end it’s the fans who benefit."
     },
     {
         "id": 4,
