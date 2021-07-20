@@ -17,6 +17,7 @@ class Depository extends Component {
                             image={item.image}
                             id={item.id}
                             name={item.name}
+                            description={item.description}
                             deployed={item.deployed}
                             repo={item.repo}
                         />
