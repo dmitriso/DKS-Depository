@@ -5,7 +5,7 @@ import img4 from "../assets/images/Good-Burger.jpg"
 import img5 from "../assets/images/Fitness-Tracker.jpg"
 import img6 from "../assets/images/Schedule-day-planner1.jpg"
 import img7 from "../assets/images/RydrMainPage.jpg"
-
+import img8 from "../assets/images/Note-Construct.jpg"
 
  const DKS = [
     {
@@ -64,6 +64,14 @@ import img7 from "../assets/images/RydrMainPage.jpg"
         "repo": "https://github.com/dmitriso/Progressive-Budget-Tracker",
         "deployed":"https://dry-everglades-61211.herokuapp.com/",
         "description": ""
+    },
+    {
+        "id": 8,
+        "name": "Note-Construct",
+        "image":img8,
+        "repo": "https://github.com/dmitriso/Note-Construct",
+        "deployed":"https://infinite-anchorage-29717.herokuapp.com/",
+        "description": "A simple app that allows the user to create, save, edit, and delete notes to a database."
     }
 
 ]
