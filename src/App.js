@@ -15,20 +15,20 @@ const App = () => {
  
   return (
     <Router>
-      <div>
-        <Navbar />
-        <Wrapper>
+      <div className='App'>
+        <Navbar className='Navbar'/>
+        <Wrapper className='Wrapper'>
           {/* <Switch>
           <Route exact path="/" component={Welcome} />
           <Route exact path="/about" component={About} />
           <Route exact path="/depository" component={Depository} />
           </Switch> */}
-          <Welcome/>
-          <About/>
-          <Badges />
-          <Depository/>
+          <Welcome className='Welcome'/>
+          <About className='About' />
+          <Badges className='Badges' />
+          <Depository className='Depository'/>
         </Wrapper>
-        <Footer />
+        <Footer className='Footer' />
       </div>
     </Router>
   )
