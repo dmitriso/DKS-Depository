@@ -5,7 +5,6 @@ import Svg5 from "../../assets/svgs/svg5.svg";
 function Badges() {
     return (
         <div className="badge-el">
-            <h3></h3>
             <div className="badge-table">
                 <div>
                     <h5>Languages</h5>
