@@ -11,6 +11,7 @@ class Depository extends Component {
     render() {
         return (
             <div className="depository-el">
+                <h1 id='depository-title'>PROJECTS</h1>
                 <section className='cards'>
                     {this.state.DKS.map((item) => (
                         <ProjectItem
