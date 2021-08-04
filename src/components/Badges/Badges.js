@@ -21,9 +21,6 @@ function Badges() {
                         <div className="badge-item">
                             <img src="	https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node" />
                         </div>
-                        <div className="badge-item">
-                            <img src="" alt="" />
-                        </div>
                     </section>
                 </div>
                 <div>
@@ -41,9 +38,6 @@ function Badges() {
                         <div className="badge-item">
                             <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
                         </div>
-                        <div className="badge-item">
-                            <img src="" alt="" />
-                        </div>
                     </section></div>
                 <div>
                     <h5>Tech</h5>
@@ -53,15 +47,6 @@ function Badges() {
                         </div>
                         <div className="badge-item">
                             <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-                        </div>
-                        <div className="badge-item">
-                            <img src="" alt="" />
-                        </div>
-                        <div className="badge-item">
-                            <img src="" alt="" />
-                        </div>
-                        <div className="badge-item">
-                            <img src="" alt="" />
                         </div>
                     </section>
                 </div>
@@ -73,15 +58,6 @@ function Badges() {
                         </div>
                         <div className="badge-item">
                             <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-                        </div>
-                        <div className="badge-item">
-                            <img src="" alt="" />
-                        </div>
-                        <div className="badge-item">
-                            <img src="" alt="" />
-                        </div>
-                        <div className="badge-item">
-                            <img src="" alt="" />
                         </div>
                     </section>
                 </div>
