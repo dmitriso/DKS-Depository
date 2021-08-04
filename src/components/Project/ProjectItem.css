@@ -11,7 +11,8 @@
     background-color: transparent !important;
     height: 300px;
     perspective: 1000px;
-    margin-top: 75px;
+    /* margin-top: 75px; */
+    margin-top:2rem;
     
   }
   
