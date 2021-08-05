@@ -7,8 +7,8 @@ function Badges() {
         <div className="badge-el">
             <div className="badge-table">
                 <div>
-                    <h5>Languages</h5>
                     <section className="badge-list">
+                        <h5>Languages</h5>
                         <div className="badge-item">
                             <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
                         </div>
@@ -24,8 +24,8 @@ function Badges() {
                     </section>
                 </div>
                 <div>
-                    <h5>Frameworks</h5>
                     <section className="badge-list">
+                        <h5>Frameworks</h5>
                         <div className="badge-item">
                             <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
                         </div>
@@ -39,9 +39,9 @@ function Badges() {
                             <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
                         </div>
                     </section></div>
-                <div>
-                    <h5>Tech</h5>
+                <div> 
                     <section className="badge-list">
+                        <h5>Tech</h5>
                         <div className="badge-item">
                             <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" />
                         </div>
@@ -51,8 +51,8 @@ function Badges() {
                     </section>
                 </div>
                 <div>
-                    <h5>Databases</h5>
                     <section className="badge-list">
+                        <h5>Databases</h5>
                         <div className="badge-item">
                             <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
                         </div>
@@ -63,7 +63,7 @@ function Badges() {
                 </div>
 
             </div>
-            <img src={Svg5} alt="Svg"/>
+            <img id='svg5' src={Svg5} alt="Svg"/>
         </div>
     )
 }

@@ -17,13 +17,14 @@
 .badge-list{
     display: grid;
     justify-content: center;
-    
+    margin: 6%;
 }
 
 .badge-list img {
     position: relative;
     display: inline-flex;
     justify-content: center;
+    margin:3%;
 }
 
 .badge-item,
@@ -33,5 +34,22 @@ h5 {
 }
 
 h5 {
-    color:white;
+    color:rgb(255, 255, 255);
+    font-family: monospace;
+    text-transform: uppercase;
 }
+
+/* RESPONSIVE MEDIA QUERIES & PROPERTIES */
+@media only screen and (max-width: 620px) {
+    .badge-el {
+        height:75vh
+    }
+    .badge-table {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 0rem;
+    }
+    #svg5 {
+       display:none;
+    }
+  } 
