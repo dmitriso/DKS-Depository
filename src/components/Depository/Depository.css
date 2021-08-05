@@ -1,25 +1,35 @@
 @import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
 
 .depository-el {
-    font-family: monospace;
-    font-size:20px;
-    overflow:hidden;
-    width:100vw;
-    padding:6% 6%;
-  }
-
+  font-family: monospace;
+  font-size: 20px;
+  overflow: hidden;
+  width: 100vw;
+  padding: 6% 6%;
+}
+.cards {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 0rem;
+}
 #depository-title {
   color: white;
   margin: 0;
 }
-  
+
+
+/* RESPONSIVE MEDIA QUERIES & PROPERTIES */
 @media only screen and (max-width: 620px) {
   #depository-title {
     color: white;
     margin: 0;
     font-size: 2rem;
-    display:flex;
+    display: flex;
     justify-content: center;
   }
-} 
-
+  .cards {
+    display: inline;
+    width: 60%;
+    align-items: center;
+  }
+}
