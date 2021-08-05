@@ -1,10 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
 
-.cards {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: 0rem;
-}
 
 .card {
     cursor: pointer;
@@ -75,10 +70,3 @@
     text-shadow: 2px 2px 8px #000000;
   }
 
-  @media only screen and (max-width: 620px) {
-    .cards {
-      display: inline;
-      width: 60%;   
-      align-items: center;
-    }
-  } 
