@@ -32,14 +32,14 @@ import img8 from "../assets/images/Note-Construct.jpg"
         "deployed":"https://still-reaches-69009.herokuapp.com/#/",
         "description": "A social network for artists to connect with other artists and view how venues have treated them. Bands can easily book tours and be treated in a fair manner through transparency of the modern age. In the end it’s the fans who benefit."
     },
-    {
-        "id": 4,
-        "name": "Good-Burger",
-        "image":img4,
-        "repo": "https://github.com/dmitriso/Good-Burger",
-        "deployed":"https://aqueous-headland-38171.herokuapp.com/",
-        "description": ""
-    },
+    // {
+    //     "id": 4,
+    //     "name": "",
+    //     "image":,
+    //     "repo": "",
+    //     "deployed":"",
+    //     "description": ""
+    // },
     {
         "id": 5,
         "name": "Fitness-Tracker",
