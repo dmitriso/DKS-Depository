@@ -63,7 +63,9 @@ function Badges() {
                 </div>
 
             </div>
-            <img id='svg5' src={Svg5} alt="Svg"/>
+            <div id='svg5'>
+            <img src={Svg5} alt="Svg"/>
+            </div>
         </div>
     )
 }
