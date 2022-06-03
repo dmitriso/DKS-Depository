@@ -1,6 +1,6 @@
 import './App.css';
 import React from 'react';
-import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+import { BrowserRouter as Router } from 'react-router-dom';
 // IMPORTED COMPONENTS FOR RENDER
 import Welcome from './components/Welcome/Welcome';
 import About from './components/About/About';
